@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,50:2c5364,100:6a11cb&text=Moiz%20Ratlamwala&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Senior%20Full-Stack%20Developer&descAlignY=58&descSize=22&animation=fadeIn" alt="Moiz Ratlamwala - Senior Full-Stack Developer" />
 
 <a href="https://github.com/moiz7-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=720&height=50&lines=React.js+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;5%2B+years+shipping+production+web+apps;AI%2FLLM+integration+with+OpenAI;Chrome+extension+%26+Android+app+builder;Pixel-perfect+UI+%C2%B7+Firebase+%C2%B7+MongoDB" alt="Typing animation of my focus areas" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=720&height=50&lines=React.js+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;5%2B+years+shipping+production+web+apps;AI%2FLLM+integration+with+OpenAI;Android+app+builder;Pixel-perfect+UI+%C2%B7+Firebase+%C2%B7+MongoDB" alt="Typing animation of my focus areas" />
 </a>
 
 <br/>
@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-Full-stack developer with **5+ years** shipping production web apps end-to-end: **React/Next.js** frontends, **Node.js/Firebase** backends, and **OpenAI-powered** features. I design, build, and publish my own products too, including a **Chrome extension** and **two Android apps**, owning everything from architecture to release.
+Full-stack developer with **5+ years** shipping production web apps end-to-end: **React/Next.js** frontends, **Node.js/Firebase** backends, and **OpenAI-powered** features. I design, build, and publish my own products too, including **two Android apps**, owning everything from architecture to release.
 
 - 🏢 **Sr. Full Stack Developer at [Kimp](https://kimp.xyz)** (Oct 2024 - Present), building a design-services SaaS platform
 - 🤖 Integrating **OpenAI (ChatGPT) APIs** into production features, from prompt design through UI delivery
@@ -31,22 +31,6 @@ Full-stack developer with **5+ years** shipping production web apps end-to-end: 
 
 ## 🚀 Independent Products
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🎯 Sparrow
-**CSS Inspector & Design-Handoff Extension**
-
-Browser extension for live-site CSS inspection and annotation: ruler/gap measurement and asset extraction. Live on the **Chrome Web Store**, positioned against DevTools and CSS Peeper around the design-handoff use case.
-
-![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-</td>
-    <td width="50%" valign="top">
-
 ### 📱 PhotoRevive AI & UriScan AI
 **Published Android Apps**
 
@@ -55,10 +39,6 @@ Built and published end-to-end. **PhotoRevive AI** handles AI photo enhancement 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=googleplay&logoColor=white)
 ![AI](https://img.shields.io/badge/AI%20Powered-6A11CB?style=flat-square&logo=openai&logoColor=white)
-
-</td>
-  </tr>
-</table>
 
 ---
 
